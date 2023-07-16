@@ -16,7 +16,7 @@ C. Technology Stack:
 
    1. Programming Language: Python
    
-   2. Libraries/Frameworks: Requests, Pandas, JSON
+   2. Libraries/Frameworks: Requests, Pandas, JSON (Data format)
 
 
 D. Main Steps:
